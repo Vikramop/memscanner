@@ -45,7 +45,7 @@ const Stats = () => {
             <br />
             checks.
           </p>
-          <button className="button border-slate-500 content-end bg-[#9FF119] flex items-center  bg-[#0e0f0ec8] hover:bg-[#ffffff] w-fit text-[#f0f0f0] hover:text-black text-[14.5px] py-2 px-4 rounded-md font-[500]">
+          <button className="button border-slate-500 content-end bg-[#9FF119] flex items-center  bg-[#0e0f0ec8] hover:bg-[#ffffff] w-fit text-[#000000] hover:text-black text-[14.5px] py-2 px-4 rounded-md font-[500]">
             Learn More
           </button>
         </div>
