@@ -5,6 +5,10 @@
   text-align: center;
 } */
 
+#root {
+  background-color: black;
+}
+
 .home {
   width: 100%;
   height: auto;
@@ -24,7 +28,17 @@
   background-color: black;
 }
 
+.card {
+  border-top: 1px solid #fff;
+  border-left: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+}
+
 .setup {
   width: 100%;
   height: auto;
+}
+
+.flinks {
+  border-top: 1px solid #fff;
 }
